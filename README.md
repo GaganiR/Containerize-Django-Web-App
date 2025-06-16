@@ -1,6 +1,11 @@
+
+# Containerized Python Web App on AWS EC2 using Docker
+Deploying a Django-based web application on an AWS EC2 instance by containerizing it with Docker.
 ## Prerequisites
 > We need an EC2 instance deployed.
+
 > Allow inbound traffic on TCP port 8000.
+
 > Install docker in EC2 and add your ubuntu user to the docker group.
 
 ## Dockerfile
